@@ -22,6 +22,7 @@ Python 3.7 or above
 
 Libraries: Pillow, OpenSlide, os
 
-## Install the required libraries using pip: pip install Pillow openslide-python
+## Install the required libraries using pip: 
+  pip install Pillow openslide-python
 
 Do change the folder path as shown in the code/ commented there..
